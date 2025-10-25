@@ -1,0 +1,2 @@
+ukpostcodes.csv filter=lfs diff=lfs merge=lfs -text
+all_sectors.geojson filter=lfs diff=lfs merge=lfs -text
